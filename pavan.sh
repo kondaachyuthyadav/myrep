@@ -1,6 +1,6 @@
 !#/bin/bash
 ls
-mkdir kamma
-touch rahul sai
+mkdir amma
+touch kohili
 ls
 
